@@ -10,7 +10,8 @@ This repository is one part of the **OpenEscrow** three-repository system. See t
 
 ## Maintainer
 
-`@lekanay2005-coder`
+**Hikmaholadele** ([@Hikmaholadele](https://github.com/Hikmaholadele))
+
 
 ## Status
 
